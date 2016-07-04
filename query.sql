@@ -3,7 +3,7 @@ SELECT   ps_corporate_company.ps_corporate_company_desc AS sezionale,
 e ti introduco un errore
 un altro 
 errore
-errore
+erwwwwwwrore
 errore
          a.ps_invoice_external_number AS codice_fattura_sap,
          a.invoice_id AS codice_fattura_archibus,

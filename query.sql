@@ -1,4 +1,3 @@
-222222
 SELECT   ps_corporate_company.ps_corporate_company_desc AS sezionale,
 e ti introduco un errore
 un altro 

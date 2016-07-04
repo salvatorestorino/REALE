@@ -1,4 +1,4 @@
-/* Formatted on 2016/06/29 11:29 (Formatter Plus v4.8.8) */
+222222
 SELECT   ps_corporate_company.ps_corporate_company_desc AS sezionale,
 e ti introduco un errore
 un altro 

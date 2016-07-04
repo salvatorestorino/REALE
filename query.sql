@@ -1,5 +1,6 @@
 /* Formatted on 2016/06/29 11:29 (Formatter Plus v4.8.8) */
 SELECT   ps_corporate_company.ps_corporate_company_desc AS sezionale,
+e ti introduco un errore
          a.ps_invoice_external_number AS codice_fattura_sap,
          a.invoice_id AS codice_fattura_archibus,
          a.ps_invoice_vn_number AS numero_fattura_fornitore,
@@ -16,7 +17,7 @@ SELECT   ps_corporate_company.ps_corporate_company_desc AS sezionale,
          stragg (DISTINCT ps_cost_su_aggr.bl_id) AS id_fabbricato,
          stragg (DISTINCT ps_cost_su_aggr.ps_part_id) AS id_scala,
          stragg (DISTINCT ps_cost_su_aggr.ui) AS id_ui_rif,
-         stragg (DISTINCT ps_cost_su_aggr.ui_name) AS nome_ui_rif,
+         
          NVL
             (SUM
                 (CASE
